@@ -7,7 +7,7 @@ subtitle: Mechanical Engineer Pursuing Research
 My name is Pushkar Mishra. I have the following qualities:
 
 - I am a team worker at the same time I can be a lone ranger too.
-- I'm extremely loyal to my family
+- I am adaptive to places... specially new places
 
 What else do you need?
 
