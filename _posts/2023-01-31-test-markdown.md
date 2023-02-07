@@ -2,6 +2,7 @@
 layout: post
 title: A brief overview of Pushkar
 subtitle: Currently a research scholar at IIT Hyderabad
+cover-img: /assets/img/IMG20221024175033.jpg
 gh-badge: [star, fork, follow]
 comments: true
 ---
