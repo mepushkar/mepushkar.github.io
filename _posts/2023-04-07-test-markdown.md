@@ -1,14 +1,14 @@
 ---
 layout: post
-title: twenty-five Line FEM code for Bar subjected to point load at free end and clamped at another
-subtitle: :stuck_out_tongue_winking_eye: FEM in Python :stuck_out_tongue_winking_eye:
+title: twenty-five Line FEM code for Bar
+subtitle: Easy n fast FEM in Python
 cover-img: /assets/img/Python-Symbol.png
 gh-badge: [star, fork, follow]
 comments: true
 ---
 Just for fun
 
-'''
+```
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -37,4 +37,5 @@ plt.xlabel("Descritization along X")
 plt.ylabel("Displacement u")
 plt.legend(["undeformed","deformed"])
 plt.show()
-}'''
+}
+```
