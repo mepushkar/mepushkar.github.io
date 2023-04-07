@@ -9,6 +9,7 @@ comments: true
 Just for fun
 
 ```
+{
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -37,4 +38,5 @@ plt.xlabel("Descritization along X")
 plt.ylabel("Displacement u")
 plt.legend(["undeformed","deformed"])
 plt.show()
+}
 ```
