@@ -8,8 +8,7 @@ comments: true
 ---
 Just for fun
 
-```
-{
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -39,4 +38,4 @@ plt.ylabel("Displacement u")
 plt.legend(["undeformed","deformed"])
 plt.show()
 }
-```
+
