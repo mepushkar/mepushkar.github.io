@@ -6,12 +6,9 @@ cover-img: /assets/img/Python-Symbol.png
 gh-badge: [star, fork, follow]
 comments: true
 ---
-```
-"""
-Created on Fri Apr  7 13:53:43 2023
+Just for fun
 
-@author: pushkar
-"""
+```
 import numpy as np
 import matplotlib.pyplot as plt
 
