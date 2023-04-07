@@ -1,7 +1,7 @@
 ---
 layout: post
 title: twenty-five Line FEM code for Bar
-subtitle: Easy n fast FEM in Python
+subtitle: Easy n fast 
 cover-img: /assets/img/Python-Symbol.png
 gh-badge: [star, fork, follow]
 comments: true
