@@ -37,5 +37,4 @@ plt.xlabel("Descritization along X")
 plt.ylabel("Displacement u")
 plt.legend(["undeformed","deformed"])
 plt.show()
-}
 ```
