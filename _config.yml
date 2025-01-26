@@ -20,7 +20,7 @@ repository               : "mepushkar/mepushkar.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
+# Biographic information
   avatar           : "profile.png"
   name             : "Pushkar Mishra"
   pronouns         : # example: "she/her"  
@@ -29,7 +29,6 @@ author:
   employer         : "IIT Hyderabad"
   uri              : # URL
   email            : "me22resch11007@iith.ac.in" 
-
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=K5_D4igAAAAJ&hl=en"
